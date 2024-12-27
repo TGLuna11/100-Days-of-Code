@@ -14,7 +14,7 @@ if choice1 == 'left':
         if choice3 == "red":
             print("It's a room full of fire. You got burned by fire. GAME OVER!!!")
         elif choice3 == "blue":
-            print("It's a room full of beast. You got eaten by them. GAME OVER!!!")
+            print("It's a room full of beasts. You got eaten by them. GAME OVER!!!")
         elif choice3 == "yellow":
             print("You found the treasure. YOU WIN!!!")
         else:
